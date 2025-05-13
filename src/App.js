@@ -4,7 +4,6 @@ function App() {
   return (
     <div className="museumWall">
       <img className="exhibition" alt="" src="/artCollection/Jordan.jpg"></img>
-      <button className="infoButton"></button>
       <img
         className="exhibition"
         alt=""
